@@ -1,0 +1,22 @@
+PODS:
+  - ATTAnalyticsHelpers (0.0.1):
+    - ATTAnalyticsHelpers/GoogleAnalytics (= 0.0.1)
+  - ATTAnalyticsHelpers/GoogleAnalytics (0.0.1):
+    - GoogleAnalytics
+  - GoogleAnalytics (3.17.0)
+
+DEPENDENCIES:
+  - ATTAnalyticsHelpers (from `../`)
+  - GoogleAnalytics
+
+EXTERNAL SOURCES:
+  ATTAnalyticsHelpers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ATTAnalyticsHelpers: def96217d46146774baeda6e3d30fa7305f6de38
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+
+PODFILE CHECKSUM: dc1334c7ea07b84f4b8c65b1ee25a511ba4e679d
+
+COCOAPODS: 1.1.1

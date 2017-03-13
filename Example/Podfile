@@ -1,0 +1,11 @@
+#use_frameworks!
+
+target 'ATTAnalyticsHelpers_Example' do
+  pod 'ATTAnalyticsHelpers', :path => '../'
+
+  target 'ATTAnalyticsHelpers_Tests' do
+    inherit! :search_paths
+
+    pod 'GoogleAnalytics'
+  end
+end

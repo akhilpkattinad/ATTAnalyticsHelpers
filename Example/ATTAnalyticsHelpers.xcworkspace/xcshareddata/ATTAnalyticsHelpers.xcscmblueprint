@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F0F4E5EA5EA85652ABF96763597C47B503B4B76",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5F0F4E5EA5EA85652ABF96763597C47B503B4B76" : 9223372036854775807,
+    "8B2C561DA40B4EDC75FBE29D30D8652AA42983E0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "451358A7-B1FC-4702-96EF-43D0ABFDAC31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5F0F4E5EA5EA85652ABF96763597C47B503B4B76" : "ATTAnalyticsHelpers\/",
+    "8B2C561DA40B4EDC75FBE29D30D8652AA42983E0" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ATTAnalyticsHelpers",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/ATTAnalyticsHelpers.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreekanthrad\/ATTAnalyticsHelpers.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F0F4E5EA5EA85652ABF96763597C47B503B4B76"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/attinadme\/aop-analytics-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B2C561DA40B4EDC75FBE29D30D8652AA42983E0"
+    }
+  ]
+}
